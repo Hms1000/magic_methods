@@ -12,21 +12,23 @@
 
 dunder methods make python classes behave moe like built-in types. This allows you to:
 
--customize string representstions of your objects
--enable comparison logic
-make your objects iterable, countable and more
+- customize string representstions of your objects
+- enable comparison logic
+- make your objects iterable, countable and more
 
 ## To run:
 
 ```bash
+
 python magic_methods_practize.py
 
 ```
 
 ## Next steps
 
-More files will demonstrate how magiical methods can be applied in Cybersecurity, for example:
--custom log parsing
--alert object comparison
-streamlining forensic analysis tools
+More files will demonstrate how magical methods can be applied in Cybersecurity, for example:
+
+- custom log parsing
+- alert object comparison
+- streamlining forensic analysis tools
 
