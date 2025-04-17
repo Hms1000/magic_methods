@@ -19,7 +19,6 @@ dunder methods make python classes behave moe like built-in types. This allows y
 ## To run:
 
 ```bash
-
 python magic_methods_practize.py
 
 ```
