@@ -21,6 +21,8 @@ make your objects iterable, countable and more
 ```bash
 python magic_methods_practize.py
 
+```
+
 ## Next steps
 
 More files will demonstrate how magiical methods can be applied in Cybersecurity, for example:
