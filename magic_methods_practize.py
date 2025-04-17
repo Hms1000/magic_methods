@@ -1,4 +1,4 @@
-# Book class to store, title, autho and pages of a book
+# Book class to store, title, author and pages of a book
 
 class Book:
     def __init__(self, title, author, pages):
@@ -30,14 +30,14 @@ class Book:
     def __lt__(self, other):
         return self.pages < other.pages
                   
-book1 = Book('Nyika', 'Sam', 450)
-book2 = Book('mari', 'pam', 620)
-book3 = Book('musha', 'pam', 440)
+book1 = Book('Black and white', 'Sam', 450)
+book2 = Book('Countless Times', 'Pam', 620)
+book3 = Book('Python essentials', 'Pam', 440)
 
 print(str(book1))
 print(str(book2))
 print(str(book3))
-print(book1 > book3)
+print(book1 > book3) 
 print(book1 < book2)
 print(book3 > book1)
 print(book1 == book2)
